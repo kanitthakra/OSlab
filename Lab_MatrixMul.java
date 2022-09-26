@@ -1,5 +1,3 @@
-//64050213 Worakan Saensuksakulchon
-
 import java.util.Arrays;
 import java.util.ArrayList;
 
